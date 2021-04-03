@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AndroidManifestAnalyzer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AndroidManifestAnalyzer_jar</output-path>
+    <root id="archive" name="AndroidManifestAnalyzer.jar">
+      <element id="module-output" name="AndroidManifestAnalyzer" />
+    </root>
+  </artifact>
+</component>
